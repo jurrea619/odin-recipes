@@ -23,6 +23,13 @@ ul {
     color: darkred;
     font-style: italic;
     font-weight: bold;
+    list-style: none;
+    display: flex;
+    padding-inline-start: 0px;
+}
+
+li {
+    margin: 5px;
 }
 
 .landing-image {
